@@ -9,7 +9,7 @@ from random import choice, shuffle
 
 class NameGenerator:
     def __init__(self):
-        part_name = [choice(dataset['animals']), choice(dataset['people']), choice(dataset['places'])]
+        part_name = [choice(dataset['animals']), choice(dataset['people_and_adjectives']), choice(dataset['places'])]
         shuffle(part_name)
         self.name = '-'.join(part_name)
     
