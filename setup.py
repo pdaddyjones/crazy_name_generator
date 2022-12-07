@@ -23,11 +23,9 @@ setup(
     author_email="pdaddyjonesthethird@gmail.com",
 
     description="A crazy name generator",
-    long_description=read("README.rst"),
+    long_description=read("README.md"),
 
     packages=find_packages(exclude=('tests',)),
-
-    install_requires=['anticaptchaofficial'],
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
