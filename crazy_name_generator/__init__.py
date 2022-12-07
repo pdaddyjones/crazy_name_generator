@@ -4,7 +4,7 @@ __version__ = '0.1.0'
 __author__ = 'Yo Mero <pdaddyjonesthethird@gmail.com>'
 __all__ = []
 
-from crazy_name_generator.dataset import dataset
+from .dataset import dataset
 from random import choice, shuffle
 
 class NameGenerator:
