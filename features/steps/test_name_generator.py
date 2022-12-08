@@ -12,13 +12,18 @@ def step_impl(context):
 
 @then('I should get a valid name back')
 def step_impl(context):
-    assert context.name.count('-') == 2
-    assert len(context.name.split('-')) == 3
+    context_name_split = context.name.split('-')
+    assert len(context_name_split) == 3
 
-    for part in context.name.split('-'):
+    for part in context_name_split:
         assert part.isalnum()
 
-    for part in context.name.split('-'):
+    for part in context_name_split:
         assert part in dataset['places'] or part in dataset['people_and_adjectives'] or part in dataset['animals']
         assert part in dataset['places'] or part in dataset['people_and_adjectives'] or part in dataset['animals']
         assert part in dataset['places'] or part in dataset['people_and_adjectives'] or part in dataset['animals']
+
+    assert context_name_split[0] != context_name_split[1]
+    assert context_name_split[0] != context_name_split[2]
+    assert context_name_split[1] != context_name_split[2]
+    
