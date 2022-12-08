@@ -6,7 +6,7 @@ from crazy_name_generator.dataset import dataset
 def step_impl(context):
     context.name_generator = NameGenerator()
 
-@when('I receive a name')
+@when('I generate a name')
 def step_impl(context):
     context.name = context.name_generator.name
 
