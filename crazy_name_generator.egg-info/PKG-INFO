@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: crazy-name-generator
+Version: 0.1.0
+Summary: A crazy name generator
+Home-page: UNKNOWN
+Author: Pi Daddy Jones III
+Author-email: pdaddyjonesthethird@gmail.com
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE
+
+# crazy_name_generator
+A crazy name generator
+
+
