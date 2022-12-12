@@ -164,7 +164,7 @@ dataset = {
         'Roundworm', 'KangarooRat', 'Hookworm', 'GroundShark', 'Beetle', 'BeakedWhale', 'Reindeer', 'Ocelot', 'Raya', 'SeaSlug', 'NewWorldQuail',
         'Stork', 'GilaMonster', 'Chicken', 'Emu', 'Python', 'Opossum', 'Rodent', 'Cougar', 'Deer', 'Badger', 'Armadillo', 'Turkey', 'Crawdad', 'MonitorLizard',
         'PilotWhale', 'Bonobo', 'Falcon', 'RainbowTrout', 'Dinosaur', 'Tapir', 'Spider', 'Clam', 'Mule', 'StarNosedMole', 'Scallop', 'ArcticWolf', 'Parrotfish',
-        'Ptarmigan', 'Bass', 'TreeFrog', 'Jaguar', 'Silverfish', 'Viper', 'BlackWidowSpider', 'WaterBuffalo', 'Buffalo,African', 'SteelheadTrout', 'Skink',
+        'Ptarmigan', 'Bass', 'TreeFrog', 'Jaguar', 'Silverfish', 'Viper', 'BlackWidowSpider', 'WaterBuffalo', 'BuffaloAfrican', 'SteelheadTrout', 'Skink',
         'Hoverfly', 'Duck', 'Magpie', 'Gopher', 'Loon', 'Bandicoot', 'Meerkat', 'Sloth', 'Squirrel', 'Takin', 'Thrush', 'Xerinae', 'Ermine', 'Aphid', 'Fox', 
         'Hummingbird', 'Slug', 'ArrowCrab', 'Buzzard', 'BlueBird', 'Pig', 'Ladybug', 'Koi', 'Pony', 'VampireSquid', 'DomesticHedgehog', 'Chameleon', 'Rooster',
         'ElephantSeal', 'Walrus', 'Bobcat', 'Spoonbill', 'Tern', 'Muskox', 'Bear', 'Fly', 'Kite', 'WhoopingCrane', 'Herring', 'KangarooMouse', 'Cockroach',
