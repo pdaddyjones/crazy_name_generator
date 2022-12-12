@@ -38,7 +38,7 @@ dataset = {
         'KiAdiMundi', 'KitFisto', 'EethKoth', 'AdiGallia', 'SaeseeTiin', 'YaraelPoof', 'PloKoon', 'MasAmedda', 'GregarTypho', 'Cordé', 'ClieggLars',
         'PoggletheLesser', 'LuminaraUnduli', 'BarrissOffee', 'Dormé', 'Dooku', 'BailOrgana', 'JangoFett', 'ZamWesell', 'DexterJettster',
         'LamaSu', 'TaunWe', 'JocastaNu', 'R4P17', 'WatTambor', 'SanHill', 'ShaakTi', 'Grievous', 'Tarfful', 'RaymusAntilles', 'SlyMoore', 'TionMedon',
-        'Finn', 'Rey', 'PoeDameron', 'BB8', 'CaptainPhasma', 'Bambi', 'Batman', 'AMLO.', 'MagnusCarlsen', 'PeterParker', 'MilesMorales', 'Spiderman', 
+        'Finn', 'Rey', 'PoeDameron', 'BB8', 'CaptainPhasma', 'Bambi', 'Batman', 'AMLO', 'MagnusCarlsen', 'PeterParker', 'MilesMorales', 'Spiderman', 
         'BruceWayne', 'Superman', 'Perry', 'Chicharito', 'CristianoRonaldo', 'Leonardo', 'Raphael', 'MiguelÁngel', 'Donatello', 'Frodo', 'Gandalf', 'IronMan',
         'Robin', 'TimDrake', 'DickGrayson', 'BarbaraGordon', 'JasonTodd','Abandoned', 'Able', 'Absolute', 'Adorable', 
         'Adventurous', 'Academic', 'Acceptable', 'Acclaimed', 'Accomplished', 'Accurate', 'Aching', 'Acidic', 'Acrobatic', 
